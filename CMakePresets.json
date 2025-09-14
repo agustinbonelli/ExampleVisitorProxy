@@ -14,7 +14,7 @@
         "CMAKE_PROJECT_TOP_LEVEL_INCLUDES": "${sourceDir}/cmake/conan_provider.cmake"
 
       }
-    }
+    },
     {
       "name": "x64-debug",
       "displayName": "x64 Debug",
